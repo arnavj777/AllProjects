@@ -1,2 +1,2 @@
 # AllProjects
-Main projects from highschool
+projects which I contributed to and created during highschool
